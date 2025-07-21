@@ -1,0 +1,16 @@
+h1 {
+    color:white;
+    background-color: blue;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+label {
+    color: red;
+}
+
+p {
+    color: purple;
+    background-color: orange;
+    font-size: 25px;
+}
